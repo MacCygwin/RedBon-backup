@@ -14,7 +14,9 @@ if command -v yay > /dev/null 2>&1; then
   cp -r wal ~/.config/
   cp -r waybar ~/.config/
   cp -r wofi ~/.config/
-  cp -r wlogout ~/.config/ 
+  cp -r wlogout ~/.config/
+  cp -r starship ~/.config/
+  cp -r .zshrc ~/
 
   hyprpm update 
   hyprpm add https://github.com/hyprwm/hyprland-plugins
