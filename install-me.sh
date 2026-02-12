@@ -20,7 +20,7 @@ if command -v yay > /dev/null 2>&1; then
   hyprpm add https://github.com/hyprwm/hyprland-plugins
   hyprpm enable hyprscrolling
 
-  echo "Done with install. Make sure redbon-fully installed."
+  echo "Done with install. Make sure redbon-catppuccin installed."
   echo "Then launch hyprland."
 
 else
