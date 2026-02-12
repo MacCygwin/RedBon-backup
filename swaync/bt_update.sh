@@ -1,0 +1,2 @@
+sh -c "rfkill list bluetooth | grep -q 'Soft blocked: no' && echo true || echo false"
+
