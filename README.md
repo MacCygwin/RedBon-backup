@@ -15,7 +15,5 @@ Edit appearance settings:
 
 Launch Hyprland
 
-Make sure to install hyprscrolling plugin using hyprpm
-
 Profit!  
 
